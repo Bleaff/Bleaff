@@ -19,7 +19,7 @@ A software engineer focused on computer vision systems, modular streaming archit
 
 | Category         | Technologies                                                 |
 |------------------|--------------------------------------------------------------|
-| CV Streaming     | `PyAV`, `GStreamer`, `FFmpeg`, `OpenCV`, `MediaPipe`         |
+| CV Streaming     | `PyAV`, `FFmpeg`, `OpenCV`                                   |
 | Embedded / IoT   | `ESP32`, `ESP8266`, `Arduino`, `C++`, `libav*`, `RTOS`       |
 | Architecture     | `ZeroMQ`, `multiprocessing`, `threading`, `YAML`, `DAG`      |
 | Backend / Comm   | `MQTT`, `REST`, `ZMQ`, `asyncio`, `FastAPI`                  |
