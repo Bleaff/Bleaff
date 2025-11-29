@@ -1,3 +1,9 @@
+## 📈 GitHub Activity
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
+
 # 👋 Hi, I'm Sergey
 
 A software engineer focused on computer vision systems, modular streaming architectures, and embedded development. I build clean, extensible, and high-performance pipelines — from low-level RTSP/FFmpeg to high-level node orchestration.
